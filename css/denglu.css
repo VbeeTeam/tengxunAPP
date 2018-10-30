@@ -1,0 +1,44 @@
+body{
+	background-color: #33c9fe;
+}
+.denglu{
+	width: 2.70rem;
+	height: 4.35rem;
+	margin: .9rem auto .7rem;
+	text-align: center;
+}
+.denglu h2{
+	font-size: .3rem;
+	color: white;
+	width: 1.28rem;
+	height: .4rem;
+	text-align: center;
+	margin: .22rem auto .75rem;
+}
+.denglu p{
+	font-size: .13rem;
+	color: white;
+	margin-bottom: .2rem;
+}
+.denglu_qq{
+	display: block;
+	width: 2.70rem;
+	height: .5rem;
+	line-height: .5rem;
+	text-align: center;
+	border: 1px solid white;
+	box-sizing: border-box;
+	border-bottom-left-radius: .19rem;
+	border-bottom-right-radius: .19rem;
+	border-top-left-radius: .19rem;
+	border-top-right-radius: .19rem;
+	font-size: .16rem;
+	color: white;
+	margin-bottom: .2rem;
+}
+.denglu_qq img{
+	display: inline-block;
+	width: .2rem;
+	height: .2rem;
+	vertical-align: middle;
+}

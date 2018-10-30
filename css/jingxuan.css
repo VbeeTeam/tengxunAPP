@@ -1,0 +1,44 @@
+/*section*/
+.sections_two a:nth-of-type(1){
+	font-size: .25rem;
+	font-weight: 600;
+	color: #040404;
+}
+.sections_label{
+	width: 100%;
+	height: .60rem;
+	display: flex;
+	align-items: center;
+	justify-content:center;
+}
+.sections_label h3{
+	font-size: .16rem;
+	color: #6c6c6c;	
+}
+.sections_six{
+	width: 100%;
+	height: 2.07rem;	
+}
+.six_left{
+	width: 1.75rem;
+	height: 2.07rem;
+	float: left;
+}
+.six_left img{
+	width: 1.75rem;
+	height: .98rem;
+}
+.six_left h3{
+	font-size: .14rem;	
+	margin-top: .15rem;
+	margin-bottom: .35rem;
+}
+.six_left a{
+	font-size: .13rem;
+	font-weight: 800;
+	color: #379deb;
+	display: block;
+}
+.six_right{
+	float: right;
+}

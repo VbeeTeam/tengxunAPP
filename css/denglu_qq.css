@@ -1,0 +1,98 @@
+body{
+	background-color: #f7f7f9;
+}
+/*header*/
+header{
+	width: 100%;
+	height: .5rem;
+	background-color: #24b8fe;
+	display: flex;
+	align-items: center;
+}
+header a img{
+	display: inline-block;
+	width: .15rem;
+	height: .25rem;
+	vertical-align: middle;
+}
+header a{
+	font-size: .16rem;
+	color: white;
+	margin-left: .1rem;
+}
+header h6{
+	font-size: .18rem;
+	color: white;
+	font-weight: 400;
+	margin-left: 1.00rem;
+}
+/*qq*/
+.qq{
+	width: 3.53rem;
+	height: 3.90rem;
+	border-radius:.05rem ;
+	margin: .15rem auto;
+	background-color: white;
+}
+.qq img{
+	width: 3.53rem;
+	height: 2.70rem;
+}
+.qq_one{
+	width: 3.13rem;
+	height: .60rem;
+	border-bottom: 1px solid #f1f1f1;
+	margin: 0 .20rem;
+	box-sizing: border-box;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.one_left{
+	width: 1.00rem;
+	height: .60rem;
+	
+}
+.one_left h5{
+	font-size: .19rem;
+	color: #000000;
+	margin-top: .10rem;
+}
+.one_left span{
+	font-size: .12rem;
+	color: #696969;
+	display: flex;
+}
+.qq_one a img{
+	display:inline-block;
+	width: .40rem;
+	height: .40rem;
+	vertical-align: middle;
+}
+.qq_one a{
+	font-size: .16rem;
+	color: #b6b6b6;
+}
+.qq_two{
+	width: 3.13rem;
+	height: .60rem;
+	margin: 0 .20rem;
+	line-height: .60rem;
+}
+.qq_two a{
+	display: block;
+	font-size: .16rem;
+	color: #14aaf1;
+}
+.qq_denglu{
+	display: block;
+	width: 3.53rem;
+	height: .40rem;
+	margin: 0 auto;
+	border-radius: .05rem;
+	background-color: #1eb9f2;
+	font-size: .19rem;
+	color: white;
+	line-height: .40rem;
+	text-align: center;
+}
